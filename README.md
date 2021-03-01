@@ -1,4 +1,14 @@
 # MalignantTumors (in progress)
+goal: detect malignant tumors inside CT scan images
+### data set
+the data set can be downloaded from the following link:
+https://luna16.grand-challenge.org/download
+After registeration and logging in, you can use Zenodo link to go to the download page. You need to download the following files:
+
+a) candidates.csv
+b) annotations.csv
+c) subset*.zip
+For the subset*.zip you can pick any number between 0 to 9.
 
 A five-steps procedure to detect malignant tumors inside CT scan images:
 
