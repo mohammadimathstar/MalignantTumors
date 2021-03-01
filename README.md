@@ -12,6 +12,7 @@ c) subset*.zip
 
 For the subset*.zip you can pick any number between 0 to 9.
 
+### Procedure
 A five-steps procedure to detect malignant tumors inside CT scan images:
 
 1) Load: put raw data into a form usable by PyTorch.
