@@ -1,4 +1,4 @@
-# MalignantTumors
+# MalignantTumors (in progress)
 
 A five-steps procedure to detect malignant tumors inside CT scan images:
 
